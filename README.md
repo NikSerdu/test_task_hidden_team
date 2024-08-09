@@ -2,7 +2,7 @@
 
 ## Установка
 
-Установка с помощью npm
+Установка с помощью npm (localhost:5173)
 
 ```bash
   git clone https://github.com/NikSerdu/test_task_hidden_team
@@ -13,7 +13,7 @@
   npm run dev
 ```
 
-Установка с помощью pnpm
+Установка с помощью pnpm (localhost:5173)
 
 ```bash
   git clone https://github.com/NikSerdu/test_task_hidden_team
@@ -24,7 +24,7 @@
   pnpm run dev
 ```
 
-Установка с помощью Docker
+Установка с помощью Docker (localhost)
 
 ```bash
   git clone https://github.com/NikSerdu/test_task_hidden_team
