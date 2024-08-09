@@ -8,6 +8,7 @@
   git clone https://github.com/NikSerdu/test_task_hidden_team
   cd test_task_hidden_team
   mv .env.default .env
+  nano .env
   npm i
   npm run dev
 ```
@@ -18,6 +19,7 @@
   git clone https://github.com/NikSerdu/test_task_hidden_team
   cd test_task_hidden_team
   mv .env.default .env
+  nano .env
   pnpm i
   pnpm run dev
 ```
